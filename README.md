@@ -23,7 +23,7 @@
 
 Here is an example of how the tab list looks with the plugin enabled:
 
-![Tab List Screenshot]([path/to/your/screenshot.png](https://github.com/skelen18/Easy-Tab/blob/main/easytab.png))
+![Tab List Screenshot](https://github.com/skelen18/Easy-Tab/blob/main/easytab.png)
 
 
 ## Known Issues
