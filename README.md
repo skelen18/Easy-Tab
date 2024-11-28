@@ -15,9 +15,10 @@
 - **Sorting players by team and alphabetically** for better clarity.
 
 ## Installation
-1. Download the plugin and place the JAR file in the `plugins` folder on your Minecraft server.
-2. Restart the server to load the plugin.
-3. The plugin will automatically integrate with **EasyEvent** and begin displaying players in the tab list.
+1. Download the plugin from [releases](https://github.com/skelen18/Easy-tab/releases).
+2. Place the JAR file into the `plugins` folder of your Minecraft server.
+3. Restart the server to load the plugin.
+4. The plugin will automatically integrate with **EasyEvent** and begin displaying players in the tab list.
 
 ## Screenshots
 
