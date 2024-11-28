@@ -37,3 +37,10 @@ Here is an example of how the tab list looks with the plugin enabled:
 - Version: **1.16.5** - **1.20.1**
 - **[EasyEvent](https://github.com/skelen18/Easy-Event)** plugin is required for proper functionality.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+For any questions or assistance, feel free to reach out to me on [Instagram](https://www.instagram.com/lordskelen18).
