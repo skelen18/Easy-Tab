@@ -1,0 +1,7 @@
+name: EasyTab
+version: '${project.version}'
+main: skelen.easytab.EasyTab
+api-version: '1.20'
+prefix: EasyTab
+description: TAB list plugin, compatible with EasyEvent plugin
+authors: [LordSkelen18]
